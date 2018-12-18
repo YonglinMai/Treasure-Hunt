@@ -1,0 +1,33 @@
+h1{
+    font-size:80px;
+}
+body{
+    text-align:center;
+    font-family: 'Charm', cursive;
+}
+button{
+    font-size:50px;
+    padding-left:50px;
+    padding-right:50px;
+    border:10px solid black;
+    border-radius:10px;
+    display: none;
+}
+p{
+    display: none;
+    font-size: 40px;
+}
+.one{
+    display: flex;
+    font-size:45px;
+}
+.two{
+    display: flex;
+    justify-content: center;
+}
+.steptwo{
+    display: none;
+}
+.treat{
+    display:none;
+}
