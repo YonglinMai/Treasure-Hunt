@@ -18,4 +18,5 @@ $(".final").dblclick(function(){
     $(".whole").fadeOut();
     $("body").css("background-color","gold");
     $(".treat").fadeIn();
+    $(".treattwo").fadeIn();
 });
