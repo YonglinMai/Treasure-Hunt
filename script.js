@@ -5,6 +5,7 @@ $(".hi").click(function(){
 $(".steptwo").dblclick(function(){
     $(".steptwo").hide();
     $("button").show();
+    $(".hi").hide();
 });
 $(".stepthree").mouseleave(function(){
     $(".stepthree").text("Click");
